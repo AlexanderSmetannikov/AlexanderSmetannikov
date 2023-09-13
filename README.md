@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, I'm 21 y.o. software engineer from Russia, Moscow.
+
+- I am currently studying at the [Moscow Power Engineering Institute] (https://mpei.ru/lang/en/Pages/default.aspx) at computer science Master's Program. Also stu
 - 🔭 I’m currently working on Vector Database, some microservices in Go, Rust, C++.
 - 🌱 I’m currently learning Go, Rust.
 - 📫 How to reach me: alexlutfulin@yandex.com, moosqad@gmail.com. I will be glad to have the opportunity of collaboration, help and job offers 😁
