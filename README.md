@@ -1,4 +1,4 @@
-### Hi there 👋
+### Long story short... 👋
 
 <!--
 **AlexanderSmetannikov/AlexanderSmetannikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm software engineer from Russia, Moscow. 
+- 🔭 I’m currently working on Vector Database, some microservices in Go, Rust, C++.
+- 🌱 I’m currently learning Go, Rust.
+- 📫 How to reach me: alexlutfulin@yandex.com, moosqad@gmail.com. I will be glad to have the opportunity of collaboration, help and job offers 😁
+
+My github stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderSmetannikov&layout=compact)](https://github.com/AlexanderSmettanikov/github-readme-stats)
 
