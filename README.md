@@ -19,7 +19,7 @@ Hi, I'm 21 y.o. software engineer from Russia, Moscow.
 - 🖥️ I also study at the [École 42](https://21-school.ru/), Moscow campus.
 - 🔭 I’m currently working on Vector Database, some microservices in Go, Rust, C++.
 - 🌱 I’m currently learning Go, Rust.
-- 📫 How to reach me: alexlutfulin@yandex.com, moosqad@gmail.com. I will be glad to have the opportunity of collaboration, help and job offers 😁
+- 📫 How to reach me: alexlutfulin@yandex.com. I will be glad to have the opportunity of collaboration, help and job offers 😁
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderSmetannikov&layout=compact)](https://github.com/AlexanderSmettanikov/github-readme-stats)
