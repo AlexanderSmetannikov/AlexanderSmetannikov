@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm 21 y.o. software engineer from Russia, Moscow.
+Hi, I'm 22 y.o. software engineer from Russia, Moscow.
 
 - 📚 I am currently studying at the [Moscow Power Engineering Institute](https://mpei.ru/lang/en/Pages/default.aspx) at computer science Master's Program.
 - 🖥️ I also study at the [École 42](https://21-school.ru/), Moscow campus.
