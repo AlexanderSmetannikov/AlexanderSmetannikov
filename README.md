@@ -20,7 +20,3 @@ Hi, I'm software engineer working at SberDevices, Moscow.
 - 🔭 I’m currently working on Vector Database, some microservices in Go, C++.
 - 🌱 I’m currently learning Go, C++.
 - 📫 How to reach me: alexlutfulin@yandex.com. I will be glad to have the opportunity of collaboration, help and job offers 😁
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderSmetannikov&layout=compact)](https://github.com/AlexanderSmettanikov/github-readme-stats)
-
