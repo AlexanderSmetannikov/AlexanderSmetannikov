@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 Hi, I'm software engineer working at SberDevices, Moscow.
 
 - 📚 I am currently studying at the [Moscow Power Engineering Institute](https://mpei.ru/lang/en/Pages/default.aspx) at computer science Master's Program.
-- 🖥️ I also study at the [École 42](https://21-school.ru/), Moscow campus.
-- 🔭 I’m currently working on Vector Database, some microservices in Go, C++.
-- 🌱 I’m currently learning Go, C++.
+- 🖥️ I also studied at the [École 42](https://21-school.ru/), Moscow campus.
+- 🔭 I’m currently working on Backend Architecture for LLMs, some MCP services in Go and C++.
 - 📫 How to reach me: alexlutfulin@yandex.com. I will be glad to have the opportunity of collaboration, help and job offers 😁
